@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+node_modules/
+.cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.pytest_cache/
